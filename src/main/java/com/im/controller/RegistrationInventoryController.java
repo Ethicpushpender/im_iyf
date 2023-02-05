@@ -23,6 +23,7 @@ public class RegistrationInventoryController {
 //		return "hello";
 //	}
 		
+	//first commit
 	@PostMapping("/addInventory")
 	    public  void register(@RequestBody Register register) {
 	        
